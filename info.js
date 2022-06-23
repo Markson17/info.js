@@ -1,6 +1,4 @@
-let fullname = "Favour Markson"
-let height = "5'9"
-let country = "Nigeria"
-console.log(fullname)
-console.log(height)
-console.log(country)
+alert("My name is Favour Markson")
+alert("I am 5'9 inches tall")
+alert("The name of my country is Nigeria")
+
