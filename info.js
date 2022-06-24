@@ -1,4 +1,3 @@
-alert("My name is Favour Markson")
-alert("I am 5'9 inches tall")
-alert("The name of my country is Nigeria")
-
+console.log("My name is Favour Markson");
+console.log("I am 5'9 inches tall");
+console.log("I am from Nigeria.");
